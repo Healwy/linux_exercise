@@ -1,4 +1,5 @@
 #include <stddef.h>
+#include <signal.h>
 #include <errno.h>
 #include <stdlib.h>
 #include <sys/types.h>
